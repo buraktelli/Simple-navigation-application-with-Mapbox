@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TurnbyTurn</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiYnVyYWsxMjMiLCJhIjoiY2sxcWt6aGplMDJiNDNtbGU1eXpldXpzdiJ9.KP-m4o77qVzsVdJE8Iyd3g</string>
+</resources>
